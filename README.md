@@ -8,11 +8,7 @@ Assignment 2
 
 <a href="https://sheperoni.github.io/Assessment1/">Jackson Shepard</a>
 
-Quinn Goh  
-
-Syeda Hussnain 
+<a href="https://qgoh0809.github.io/s3724287.github.io/">Quinn Goh</a>
 
 <h3>Personal Information of team members from The IT Shroud</h3>
 
-<h6>Matthew Andrews</h6>
-I was born in Australia, where all of my English-speaking family have lived for many generations. I grew up mostly in Brisbane, Queensland. At the time I am writing this, I have minimal experience working in the IT field. I am passionate to learn how to make technology work, such as coding and programming so as to make hardware or software do what I want it to do. A simple example of this was my original project idea in Assignment 1, where I plan to program a raspberry pi to respond to BLE signals, to switch on and off lights or open and close doors. My hobbies range from creating electronic music, competing on road (push) bikes and modifying or restoring cars.
