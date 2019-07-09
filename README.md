@@ -8,9 +8,7 @@ Assignment 2
 
 <a href="https://sheperoni.github.io/Assessment1/">Jackson Shepard</a>
 
-Quinn Goh  
-
-Syeda Hussnain 
+<a href="https://qgoh0809.github.io/s3724287.github.io/">Quinn Goh</a>
 
 <h3>Personal Information of team members from The IT Shroud</h3>
 
